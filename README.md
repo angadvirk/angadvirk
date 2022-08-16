@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Angad.
+
+I develop 🌏 Web and 📱 Mobile Applications. I have experience with JavaScript, React (& React Native), Python, and more.
+
+- 💻 I'm currently working on the latest iteration of my personal portfolio website - https://angadvirk.github.io/
+- 🌱 I'm also refreshing my React Fundamentals and better learning how to work with Firebase for Authentication and Storage.
+- 💼 I was most recently a Software Engineering Intern at MakeMyTrip, where I mainly worked on the iOS app's Front End in React Native. 
+- 📫 Email Me - angad.virk@gmail.com
+
+Thanks for stopping by!
 
 <!--
 **angadvirk/angadvirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
