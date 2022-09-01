@@ -11,7 +11,7 @@
     <a href="https://instagram.com/angadsvirk">Instagram</a>
 </p>
 <p align="center">
-  <h4 align="center">Software Engineer currently based in Los Angeles, California.</h4>
+  <h4 align="center">I'm a Software Engineer currently based in Los Angeles, California.</h4>
 </p>
 
 <p align="center"> 
