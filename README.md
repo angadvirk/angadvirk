@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">Hi 👋, I'm Angad</h2>
+  <h2 align="center">Hi 👋, I'm Angad.</h2>
 </p>
 <p align="center">
     <a href="https://angadvirk.github.io">About Me</a>
