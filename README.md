@@ -1,15 +1,15 @@
 <p align="center">
   <h2 align="center">Hi 👋, I'm Angad.</h2>
 </p>
-<p align="center">
-    <a href="https://angadvirk.github.io">About Me</a>
-    ·
-    <a href="mailto:angad.virk@gmail.com">Email</a>
-    ·
-    <a href="https://linkedin.com/in/angadvirk">LinkedIn</a>
-    ·
-    <a href="https://instagram.com/angadsvirk">Instagram</a>
-</p>
+
+<div align="center"> 
+
+[!["Gmail"](https://img.shields.io/badge/-angad.virk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:angad.virk@gmail.com)](mailto:angad.virk@gmail.com)
+[!["Linkedin"](https://img.shields.io/badge/-angadvirk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angadvirk/)](https://www.linkedin.com/in/angadvirk/)
+[!["Instagram"](https://img.shields.io/badge/-angadsvirk-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/angadsvirk/)](https://instagram.com/angadsvirk)
+
+</div>
+
 <p align="center">
   <h4 align="center">I'm a Software Engineer currently based in Los Angeles, California.</h4>
 </p>
@@ -19,15 +19,15 @@
 </p>
 
 <hr/>
+<h3>About Me:</h3>
+I like to build Web 🕸 and Mobile 📱 Applications.
 
-### Hi there, I'm Angad.
-
-I build 🌏 Web and 📱 Mobile Applications. I have experience with JavaScript, React (& React Native), Python, and more.
-
-- 💻 I'm currently working on my **[Portfolio Website](https://angadvirk.github.io/)**.
-- 🌱 I'm reviewing my React Fundamentals as well as how to work with Firebase for Authentication and Storage.
-- 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I worked on the iOS app's Front End in React Native. 
+- 💻 I'm currently working on the latest (and greatest) iteration of my **[Portfolio Website](https://angadvirk.github.io/)**.
+- 🌱 I'm reviewing my React Fundamentals as well as learning how to work with Firebase for Authentication and Storage.
+- 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
+
+<hr/>
 
 Thanks for stopping by!
 
