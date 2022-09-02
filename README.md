@@ -19,6 +19,7 @@
 </p>
 
 <hr/>
+
 🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
 
 - 💻 I'm currently working on the latest (and greatest) iteration of my **[Portfolio Website](https://angadvirk.github.io/)**.
@@ -28,45 +29,40 @@
 
 <hr/>
 
-⚡️ I'm good at using the following technologies. <br /> <br />
+⚡️ Following are some of the technologies I'm familiar with: <br /> <br />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-<!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-<div align="center">   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js) 
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-red?style=flat&logo=google-cloud) <br />
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
+  
 </div>
 
+<br />
 
-<!--
-**angadvirk/angadvirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
+<!-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) -->
+<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
+<!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
+
+
+
