@@ -15,9 +15,11 @@
   <p align="center">I'm a Software Engineer currently based in Los Angeles, California.</p>
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=angadvirk&color=blue&style=flat&label=Profile+Views" alt="angadvirk profile views" />
-</p>
+<div align="center"> 
+
+  [<img align="center" src="https://komarev.com/ghpvc/?username=angadvirk&color=blue&style=flat&label=Profile+Views" alt="angadvirk profile views" />](https://komarev.com/ghpvc)
+  
+</div>
 
 <hr/>
 
@@ -34,19 +36,19 @@
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js) 
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-red?style=flat&logo=google-cloud) <br />
-![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)](https://www.javascript.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.com/html5/)
+[![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat&logo=css3)](https://www.w3schools.com/Css/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org/en/)
+[![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)](https://www.python.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) <br />
+[![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)](https://bitbucket.org/product/)
   
 </div>
 
@@ -54,7 +56,7 @@
 
 <div align="center"> 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)](https://github.com/angadvirk?tab=repositories)
 
 </div>
 
