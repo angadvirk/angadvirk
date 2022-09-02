@@ -4,6 +4,7 @@
 
 <div align="center"> 
 
+[!["Website"](https://img.shields.io/badge/-angadvirk.github.io-orange)](https://angadvirk.github.io/)
 [!["Gmail"](https://img.shields.io/badge/-angad.virk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:angad.virk@gmail.com)](mailto:angad.virk@gmail.com)
 [!["Linkedin"](https://img.shields.io/badge/-angadvirk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angadvirk/)](https://www.linkedin.com/in/angadvirk/)
 [!["Instagram"](https://img.shields.io/badge/-angadsvirk-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/angadsvirk/)](https://instagram.com/angadsvirk)
@@ -63,6 +64,3 @@
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
-
-
-
