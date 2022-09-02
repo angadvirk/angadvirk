@@ -17,7 +17,7 @@
 
 <div align="center"> 
 
-  [<img align="center" src="https://komarev.com/ghpvc/?username=angadvirk&color=blue&style=flat&label=Profile+Views" alt="angadvirk profile views" />](https://komarev.com/ghpvc)
+  [<img align="center" src="https://komarev.com/ghpvc/?username=angadvirk&color=blue&style=flat&label=Profile+Views" alt="angadvirk profile views" />](https://github.com/antonkomarev/github-profile-views-counter)
   
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)](https://github.com/angadvirk?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
