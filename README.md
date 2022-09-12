@@ -26,7 +26,7 @@
 🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
 
 - 💻 I'm currently working on the latest (and greatest) iteration of my **[Portfolio Website](https://angadvirk.github.io/)**.
-- 🌱 I'm reviewing my React Fundamentals as well as learning how to work with Firebase for Authentication and Storage.
+- 🌱 I'm reviewing my SQL Fundamentals as well as learning how to work in PostgreSQL using pgAdmin.
 - 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
 
