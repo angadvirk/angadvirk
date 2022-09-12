@@ -45,7 +45,8 @@
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)](https://www.python.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) <br />
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) <br />
 [![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)](https://bitbucket.org/product/)
@@ -64,5 +65,4 @@
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 <!-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) -->
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
