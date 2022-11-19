@@ -25,8 +25,8 @@
 
 🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
 
-- 💻 I'm currently working on a simple **[Blog Website](https://github.com/angadvirk/NodeBlog)** to review Node.js fundamentals.
-- 🌱 I'm reviewing how to use Node, Express and MongoDB to create CRUD applications.
+- 💻 I'm currently working on a React project that incorporates Firebase 🔥 as a datastore.
+- 🌱 I'm reviewing core React concepts as well as how to use Firebase in a web application.
 - 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
 
