@@ -25,7 +25,7 @@
 
 🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
 
-- 💻 I'm currently working on learning the fundamentals of Algorithmic Trading using Python.
+- 🌱 I'm currently working on learning the fundamentals of Algorithmic Trading using Python.
 - 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
 - 🌎 Check out my Website - https://angadvirk.github.io/ (I made it myself!)
