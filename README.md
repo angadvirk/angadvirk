@@ -25,10 +25,10 @@
 
 🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
 
-- 💻 I'm currently working on a React project that incorporates Firebase 🔥 as a datastore.
-- 🌱 I'm reviewing core React concepts as well as how to use Firebase in a web application.
+- 💻 I'm currently working on learning the fundamentals of Algorithmic Trading using Python.
 - 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
+- 🌎 Check out my Website - https://angadvirk.github.io/ - I made it myself!
 
 <hr/>
 
