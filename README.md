@@ -25,10 +25,10 @@
 
 🌳 I like to build Web 🌎 and Mobile 📱 Applications. <br /> <br />
 
-- 🔨 I'm currently working on a Full Stack Application called 'Productivity Quest'. 
+- 🛠 I'm currently working on a Full Stack Application called 'Productivity Quest'. 
 - 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
 - 📫 Email Me - angad.virk@gmail.com
-- 🌎 Check out my Website - https://angadvirk.github.io/ (I made it myself!)
+- 🌐 Check out my Website - https://angadvirk.github.io/ (I made it myself!)
 
 <hr/>
 
@@ -57,7 +57,8 @@
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadvirk&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=angadvirk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 
 </div>
 
