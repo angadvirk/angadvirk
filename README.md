@@ -25,7 +25,7 @@
 
 🌳 I like to build Web 🌎 and Mobile 📱 Applications, and Games. <br /> <br />
 
-- 🛠 I'm currently working as a Full-time Software Engineer at Voloridge Investment Managemet. 
+- 🛠 I'm currently working full-time as a Software Engineer at Voloridge Investment Management. 
 - 📫 Email Me - angad.virk@gmail.com
 - 🌐 Check out my Website - https://angadvirk.github.io/ (I made it myself!)
 
